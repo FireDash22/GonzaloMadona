@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Gonzalo Madona</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 📫 How to reach me **gonzalomadona42@gmail.com**
+- 📫 Mi email: **gonzalomadona42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
