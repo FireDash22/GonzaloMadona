@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Gonzalo Madona</h1>
-<h3 align="center">Soy un desarrollador Full-Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firedash22&label=Profile%20views&color=0e75b6&style=flat" alt="firedash22" /> </p>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 📫 How to reach me **gonzalomadona42@gmail.com**
 
